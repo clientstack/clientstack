@@ -74,7 +74,7 @@ I focus on building **high-performance, scalable, production-ready applications*
 ---
 
 ## 📫 Contact
-- GitHub: https://github.com/clientstack
+- GitHub: https://github.com/ai-chain-dev
 
 ---
 
